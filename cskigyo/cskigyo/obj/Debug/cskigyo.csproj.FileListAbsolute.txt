@@ -1,0 +1,13 @@
+Z:\2020-2021\szoftverfejlesztés\cskigyo\cskigyo\bin\Debug\cskigyo.exe.config
+Z:\2020-2021\szoftverfejlesztés\cskigyo\cskigyo\bin\Debug\cskigyo.exe
+Z:\2020-2021\szoftverfejlesztés\cskigyo\cskigyo\bin\Debug\cskigyo.pdb
+Z:\2020-2021\szoftverfejlesztés\cskigyo\cskigyo\obj\Debug\cskigyo.csprojAssemblyReference.cache
+Z:\2020-2021\szoftverfejlesztés\cskigyo\cskigyo\obj\Debug\cskigyo.csproj.CoreCompileInputs.cache
+Z:\2020-2021\szoftverfejlesztés\cskigyo\cskigyo\obj\Debug\cskigyo.exe
+Z:\2020-2021\szoftverfejlesztés\cskigyo\cskigyo\obj\Debug\cskigyo.pdb
+D:\_munkám_\Program\cskigyo\cskigyo\bin\Debug\cskigyo.exe.config
+D:\_munkám_\Program\cskigyo\cskigyo\bin\Debug\cskigyo.exe
+D:\_munkám_\Program\cskigyo\cskigyo\bin\Debug\cskigyo.pdb
+D:\_munkám_\Program\cskigyo\cskigyo\obj\Debug\cskigyo.csprojAssemblyReference.cache
+D:\_munkám_\Program\cskigyo\cskigyo\obj\Debug\cskigyo.exe
+D:\_munkám_\Program\cskigyo\cskigyo\obj\Debug\cskigyo.pdb
